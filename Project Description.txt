@@ -1,0 +1,4 @@
+Music Project.
+Includes 9 buttons - each button contains a music sample.
+clicking the play button will play all the samples of the pressed buttons.
+clicking a button while play button is pressed, will add the presenting music sample on the next loop ( which occurs after 8 seconds).
