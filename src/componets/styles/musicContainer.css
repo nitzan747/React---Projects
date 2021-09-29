@@ -1,0 +1,32 @@
+.musicContainer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background: burlywood;
+}
+
+#buttonsContainer {
+	display: flex;
+	color: rgb(69, 51, 173);
+	background-color: rgb(100, 77, 104);
+	justify-content: center;
+	align-items: center;
+	padding: 5%;
+	flex-wrap: wrap;
+	width: 60vw;
+	height: 70vh;
+}
+
+.playAndRecord {
+	display: inline-grid;
+	font-family: monospace;
+	padding: 3px;
+	margin: 8px;
+}
+
+.screenContainer {
+	text-align: center;
+	background-color: #bca358;
+	height: 100vh;
+}
