@@ -154,7 +154,7 @@ class MusicContainer extends React.Component {
 		return (
 			<div className="screenContainer">
 				<div className="musicContainer">
-					<h3 class="titleStyling"> Welcome to the Music Machine! </h3>
+					<h3 className="titleStyling"> Welcome to the Music Machine! </h3>
 					<ButtonGroup id="buttonsContainer">
 						{this.state.musicButtons.map((button) => (
 							<MusicButton
